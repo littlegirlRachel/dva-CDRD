@@ -21,4 +21,7 @@ Start server.
 $ npm start
 ```
 
-If success, app will be open in your default browser automatically.
+If success, app will be open in your default browser automatically.hahaha
+
+
+
