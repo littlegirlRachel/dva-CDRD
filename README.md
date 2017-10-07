@@ -21,6 +21,8 @@ Start server.
 $ npm start
 ```
 
+<<<<<<< HEAD
 If success, app will be open in your default browser automatically.
 create a new branch is simple
+
 
